@@ -1,3 +1,5 @@
+---
+
 <p align="center">  
 	<br>
 	<a href="https://www.hackerrank.com/alaamimi">
@@ -6,12 +8,25 @@
 	<br>
 </p> 
 
+---
+
+## Leaderboard ranking :
+
+</p>
+<p align="center">
+<img src="https://github.com/alaamimi/UnixShell-HackerRank-Assessements/blob/master/img/rank.JPG" width="800">
+</p>
+
+---
+
 Subdomains :
  
 * [Bash Challenges](https://www.hackerrank.com/domains/shell?filters%5Bsubdomains%5D%5B%5D=bash)
 * [Text Processing](https://www.hackerrank.com/domains/shell?filters%5Bsubdomains%5D%5B%5D=textpro)
 * [Arrays in Bash](https://www.hackerrank.com/domains/shell?filters%5Bsubdomains%5D%5B%5D=arrays-in-bash)
 * [Grep Sed Awk](https://www.hackerrank.com/domains/shell?filters%5Bsubdomains%5D%5B%5D=grep-sed-awk)
+
+---
 
 ## Bash Challenges
 
@@ -28,3 +43,6 @@ Subdomains :
 | 9 |[Arithmetic Operations](https://www.hackerrank.com/challenges/bash-tutorials---arithmetic-operations/problem) | [Solution.sh]()
 | 10|[Compute the Average](https://www.hackerrank.com/challenges/bash-tutorials---compute-the-average/problem) | [Solution.sh]()
 | 11|[Functions and Fractals - Recursive Trees - Bash!](https://www.hackerrank.com/challenges/fractal-trees-all/problem) | [Solution.sh]()
+
+
+---
