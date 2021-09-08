@@ -10,6 +10,13 @@
 
 ---
 
+</p>
+<p align="center">
+<img src="https://sweetcode.io/wp-content/uploads/2018/01/ascii_dog.gif" width="800">
+</p>
+
+---
+
 ## Leaderboard ranking :
 
 </p>
