@@ -53,3 +53,40 @@ Subdomains :
 
 
 ---
+
+| Number | Challenge | Solutions |
+|:------:|-----------|:---------:|
+|1|[Cut #1](https://www.hackerrank.com/challenges/text-processing-cut-1/problem) | [Solution]() |
+|2|[Cut #2](https://www.hackerrank.com/challenges/text-processing-cut-2/problem) | [Solution]() |
+|3|[Cut #3](https://www.hackerrank.com/challenges/text-processing-cut-3/problem) | [Solution]() |
+|4|[Cut #4](https://www.hackerrank.com/challenges/text-processing-cut-4/problem) | [Solution]() |
+|5|[Cut #5](https://www.hackerrank.com/challenges/text-processing-cut-5/problem) | [Solution]() |
+|6|[Cut #6](https://www.hackerrank.com/challenges/text-processing-cut-6/problem) | [Solution]() |
+|7|[Cut #7](https://www.hackerrank.com/challenges/text-processing-cut-7/problem) | [Solution]() |
+|8|[Cut #8](https://www.hackerrank.com/challenges/text-processing-cut-8/problem) | [Solution]() |
+|9|[Cut #9](https://www.hackerrank.com/challenges/text-processing-cut-9/problem) | [Solution]() |
+|10|[Head of a Text File #1](https://www.hackerrank.com/challenges/text-processing-head-1/problem) | [Solution]() |
+|11|[Head of a Text File #2](https://www.hackerrank.com/challenges/text-processing-head-2/problem) | [Solution]() |
+|12|[Middle of a Text File](https://www.hackerrank.com/challenges/text-processing-in-linux---the-middle-of-a-text-file/problem) | [Solution]() |
+|13|[Tail of a Text File #1](https://www.hackerrank.com/challenges/text-processing-tail-1/problem) | [Solution]() |
+|14|[Tail of a Text File #2](https://www.hackerrank.com/challenges/text-processing-tail-2/problem) | [Solution]() |
+|15|['Tr' Command #1](https://www.hackerrank.com/challenges/text-processing-tr-1/problem) | [Solution]() |
+|16|['Tr' Command #2](https://www.hackerrank.com/challenges/text-processing-tr-2/problem) | [Solution]() |
+|17|['Tr' Command #3](https://www.hackerrank.com/challenges/text-processing-tr-3/problem) | [Solution]() |
+|18|[Sort Command #1](https://www.hackerrank.com/challenges/text-processing-sort-1/problem) | [Solution]() |
+|19|[Sort Command #2](https://www.hackerrank.com/challenges/text-processing-sort-2/problem) | [Solution]() |
+|20|[Sort Command #3](https://www.hackerrank.com/challenges/text-processing-sort-3/problem) | [Solution]() |
+|21|[Sort Command #4](https://www.hackerrank.com/challenges/text-processing-sort-4/problem) | [Solution]() |
+|22|[Sort Command #5](https://www.hackerrank.com/challenges/text-processing-sort-5/problem) | [Solution]() |
+|23|[Sort Command #6](https://www.hackerrank.com/challenges/text-processing-sort-6/problem) | [Solution]() |
+|24|[Sort Command #7](https://www.hackerrank.com/challenges/text-processing-sort-7/problem) | [Solution]() |
+|25|['Uniq' Command #1](https://www.hackerrank.com/challenges/text-processing-in-linux-the-uniq-command-1/problem) | [Solution]() |
+|26|['Uniq' Command #2](https://www.hackerrank.com/challenges/text-processing-in-linux-the-uniq-command-2/problem) | [Solution]() |
+|27|['Uniq' Command #3](https://www.hackerrank.com/challenges/text-processing-in-linux-the-uniq-command-3/problem)| [Solution]() |
+|28|['Uniq' Command #4](https://www.hackerrank.com/challenges/text-processing-in-linux-the-uniq-command-4/problem) | [Solution]() |
+|29|[Paste - 1](https://www.hackerrank.com/challenges/paste-1/problem) | [Solution]() |
+|30|[Paste - 2](https://www.hackerrank.com/challenges/paste-2/problem) | [Solution]() |
+|31|[Paste - 3](https://www.hackerrank.com/challenges/paste-3/problem) | [Solution]() |
+|32|[Paste - 4](https://www.hackerrank.com/challenges/paste-4/problem) | [Solution]() |
+
+---
