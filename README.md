@@ -63,13 +63,13 @@ Subdomains :
 |5|[Cut #5](https://www.hackerrank.com/challenges/text-processing-cut-5/problem) | [Solution.sh](https://github.com/alaamimi/UnixShell-HackerRank-Assessements/blob/master/Text_processing/cut_5.sh) |
 |6|[Cut #6](https://www.hackerrank.com/challenges/text-processing-cut-6/problem) | [Solution.sh](https://github.com/alaamimi/UnixShell-HackerRank-Assessements/blob/master/Text_processing/cut_6.sh) |
 |7|[Cut #7](https://www.hackerrank.com/challenges/text-processing-cut-7/problem) | [Solution.sh](https://github.com/alaamimi/UnixShell-HackerRank-Assessements/blob/master/Text_processing/cut_7.sh) |
-|8|[Cut #8](https://www.hackerrank.com/challenges/text-processing-cut-8/problem) | [Solution.sh]() |
-|9|[Cut #9](https://www.hackerrank.com/challenges/text-processing-cut-9/problem) | [Solution.sh]() |
+|8|[Cut #8](https://www.hackerrank.com/challenges/text-processing-cut-8/problem) | [Solution.sh](https://github.com/alaamimi/UnixShell-HackerRank-Assessements/blob/master/Text_processing/cut_8.sh) |
+|9|[Cut #9](https://www.hackerrank.com/challenges/text-processing-cut-9/problem) | [Solution.sh](https://github.com/alaamimi/UnixShell-HackerRank-Assessements/blob/master/Text_processing/cut_9.sh) |
 |10|[Head of a Text File #1](https://www.hackerrank.com/challenges/text-processing-head-1/problem) | [Solution.sh]() |
 |11|[Head of a Text File #2](https://www.hackerrank.com/challenges/text-processing-head-2/problem) | [Solution.sh]() |
 |12|[Middle of a Text File](https://www.hackerrank.com/challenges/text-processing-in-linux---the-middle-of-a-text-file/problem) | [Solution.sh]() |
-|13|[Tail of a Text File #1](https://www.hackerrank.com/challenges/text-processing-tail-1/problem) | [Solution.sh]() |
-|14|[Tail of a Text File #2](https://www.hackerrank.com/challenges/text-processing-tail-2/problem) | [Solution.sh]() |
+|13|[Tail of a Text File #1](https://www.hackerrank.com/challenges/text-processing-tail-1/problem) | [Solution.sh](https://github.com/alaamimi/UnixShell-HackerRank-Assessements/blob/master/Text_processing/head_of_text_1.sh) |
+|14|[Tail of a Text File #2](https://www.hackerrank.com/challenges/text-processing-tail-2/problem) | [Solution.sh](https://github.com/alaamimi/UnixShell-HackerRank-Assessements/blob/master/Text_processing/head_of_text_2.sh) |
 |15|['Tr' Command #1](https://www.hackerrank.com/challenges/text-processing-tr-1/problem) | [Solution.sh]() |
 |16|['Tr' Command #2](https://www.hackerrank.com/challenges/text-processing-tr-2/problem) | [Solution.sh]() |
 |17|['Tr' Command #3](https://www.hackerrank.com/challenges/text-processing-tr-3/problem) | [Solution.sh]() |
