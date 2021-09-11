@@ -56,13 +56,13 @@ Subdomains :
 
 | Number | Challenge | Solutions |
 |:------:|-----------|:---------:|
-|1|[Cut #1](https://www.hackerrank.com/challenges/text-processing-cut-1/problem) | [Solution.sh]() |
-|2|[Cut #2](https://www.hackerrank.com/challenges/text-processing-cut-2/problem) | [Solution.sh]() |
-|3|[Cut #3](https://www.hackerrank.com/challenges/text-processing-cut-3/problem) | [Solution.sh]() |
-|4|[Cut #4](https://www.hackerrank.com/challenges/text-processing-cut-4/problem) | [Solution.sh]() |
-|5|[Cut #5](https://www.hackerrank.com/challenges/text-processing-cut-5/problem) | [Solution.sh]() |
-|6|[Cut #6](https://www.hackerrank.com/challenges/text-processing-cut-6/problem) | [Solution.sh]() |
-|7|[Cut #7](https://www.hackerrank.com/challenges/text-processing-cut-7/problem) | [Solution.sh]() |
+|1|[Cut #1](https://www.hackerrank.com/challenges/text-processing-cut-1/problem) | [Solution.sh](https://github.com/alaamimi/UnixShell-HackerRank-Assessements/blob/master/Text_processing/cut_1.sh) |
+|2|[Cut #2](https://www.hackerrank.com/challenges/text-processing-cut-2/problem) | [Solution.sh](https://github.com/alaamimi/UnixShell-HackerRank-Assessements/blob/master/Text_processing/cut_2.sh) |
+|3|[Cut #3](https://www.hackerrank.com/challenges/text-processing-cut-3/problem) | [Solution.sh](https://github.com/alaamimi/UnixShell-HackerRank-Assessements/blob/master/Text_processing/cut_3.sh) |
+|4|[Cut #4](https://www.hackerrank.com/challenges/text-processing-cut-4/problem) | [Solution.sh](https://github.com/alaamimi/UnixShell-HackerRank-Assessements/blob/master/Text_processing/cut_4.sh) |
+|5|[Cut #5](https://www.hackerrank.com/challenges/text-processing-cut-5/problem) | [Solution.sh](https://github.com/alaamimi/UnixShell-HackerRank-Assessements/blob/master/Text_processing/cut_5.sh) |
+|6|[Cut #6](https://www.hackerrank.com/challenges/text-processing-cut-6/problem) | [Solution.sh](https://github.com/alaamimi/UnixShell-HackerRank-Assessements/blob/master/Text_processing/cut_6.sh) |
+|7|[Cut #7](https://www.hackerrank.com/challenges/text-processing-cut-7/problem) | [Solution.sh](https://github.com/alaamimi/UnixShell-HackerRank-Assessements/blob/master/Text_processing/cut_7.sh) |
 |8|[Cut #8](https://www.hackerrank.com/challenges/text-processing-cut-8/problem) | [Solution.sh]() |
 |9|[Cut #9](https://www.hackerrank.com/challenges/text-processing-cut-9/problem) | [Solution.sh]() |
 |10|[Head of a Text File #1](https://www.hackerrank.com/challenges/text-processing-head-1/problem) | [Solution.sh]() |
